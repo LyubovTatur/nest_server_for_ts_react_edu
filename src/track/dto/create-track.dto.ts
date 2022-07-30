@@ -1,6 +1,6 @@
 export class CreateTrackDto{
-    readonly title;
-    readonly artist;
-    readonly lyrics;
+    readonly title : string;
+    readonly artist : string;
+    readonly lyrics : string;
 
 }
